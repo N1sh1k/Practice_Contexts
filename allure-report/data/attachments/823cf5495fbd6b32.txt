@@ -1,0 +1,3 @@
+[32mINFO    [0m pages.base_page:base_page.py:13 Открытие страницы: https://the-internet.herokuapp.com/windows
+[32mINFO    [0m pages.base_page:base_page.py:20 Нажатие по элементу: ('link text', 'Click Here')
+[32mINFO    [0m pages.base_page:base_page.py:29 Новое окно открыто

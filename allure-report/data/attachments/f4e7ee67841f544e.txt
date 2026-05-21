@@ -1,0 +1,2 @@
+[32mINFO    [0m pages.base_page:base_page.py:13 Открытие страницы: https://the-internet.herokuapp.com/javascript_alerts
+[32mINFO    [0m pages.base_page:base_page.py:20 Нажатие по элементу: ('xpath', "//button[text()='Click for JS Alert']")

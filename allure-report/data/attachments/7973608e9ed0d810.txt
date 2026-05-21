@@ -1,0 +1,6 @@
+[32mINFO    [0m pages.base_page:base_page.py:13 Открытие: https://the-internet.herokuapp.com/nested_frames
+[32mINFO    [0m pages.base_page:base_page.py:28 Переключились во фрейм: frame-top
+[32mINFO    [0m pages.base_page:base_page.py:28 Переключились во фрейм: frame-left
+[32mINFO    [0m pages.base_page:base_page.py:28 Переключились во фрейм: frame-middle
+[32mINFO    [0m pages.base_page:base_page.py:33 Вернулись в основной контекст
+[32mINFO    [0m pages.base_page:base_page.py:28 Переключились во фрейм: frame-bottom

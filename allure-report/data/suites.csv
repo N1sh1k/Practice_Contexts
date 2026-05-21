@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu May 21 14:52:17 MSK 2026","Thu May 21 14:52:19 MSK 2026","1883","tests","test_alerts","","","","test_javascript_alert[chrome]",""
+"passed","Thu May 21 14:53:06 MSK 2026","Thu May 21 14:53:08 MSK 2026","1635","tests","test_iframes","","","","test_nested_iframes_navigation[firefox]",""
+"passed","Thu May 21 14:53:29 MSK 2026","Thu May 21 14:53:31 MSK 2026","2715","tests","test_windows","","","","test_new_tab_opening[firefox]",""
+"passed","Thu May 21 14:52:30 MSK 2026","Thu May 21 14:52:46 MSK 2026","16608","tests","test_alerts","","","","test_javascript_alert[firefox]",""
+"passed","Thu May 21 14:52:54 MSK 2026","Thu May 21 14:52:56 MSK 2026","1583","tests","test_iframes","","","","test_nested_iframes_navigation[chrome]",""
+"passed","Thu May 21 14:53:16 MSK 2026","Thu May 21 14:53:18 MSK 2026","2014","tests","test_windows","","","","test_new_tab_opening[chrome]",""

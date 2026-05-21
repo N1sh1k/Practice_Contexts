@@ -1,0 +1,5 @@
+[32mINFO    [0m pages.base_page:base_page.py:13 Открытие: https://the-internet.herokuapp.com/windows
+[32mINFO    [0m pages.base_page:base_page.py:20 Клик по: ('link text', 'Click Here')
+[32mINFO    [0m pages.base_page:base_page.py:38 Новое окно обнаружено
+[32mINFO    [0m pages.base_page:base_page.py:43 Переключились на окно индекс -1
+[32mINFO    [0m pages.base_page:base_page.py:49 Вкладка закрыта, вернулись назад

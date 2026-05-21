@@ -1,0 +1,19 @@
+# Кэш Python и Pytest
+__pycache__/
+.pytest_cache/
+.pytest_cache/
+
+# Виртуальное окружение
+venv/
+env/
+
+# Временные результаты тестов
+allure-results/
+
+# Скриншоты
+screenshots/*.png
+
+# Файлы настроек IDE
+.idea/
+.vscode/
+.cursor/

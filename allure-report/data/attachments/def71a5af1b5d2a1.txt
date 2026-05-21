@@ -1,0 +1,3 @@
+[32mINFO    [0m pages.base_page:base_page.py:13 Открытие: https://the-internet.herokuapp.com/javascript_alerts
+[32mINFO    [0m pages.base_page:base_page.py:20 Клик по: ('xpath', "//button[text()='Click for JS Alert']")
+[32mINFO    [0m pages.base_page:base_page.py:59 Alert обработан (accept)

@@ -1,0 +1,2 @@
+[32mINFO    [0m pages.base_page:base_page.py:13 Открытие страницы: https://the-internet.herokuapp.com/nested_frames
+[32mINFO    [0m pages.base_page:base_page.py:53 Возвращение в основной контекст
